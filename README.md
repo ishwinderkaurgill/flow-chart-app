@@ -1,6 +1,8 @@
 Flowchart Designer - Visual Workflow Builder
+
 🎯 Project Overview
 A drag-and-drop flowchart designer application that allows users to create, visualize, and validate data processing pipelines using a node-based interface. The application features dynamic node creation, real-time validation, and a full-stack architecture with React frontend and FastAPI backend.
+
 
 ✨ Key Features
 Frontend (React)
